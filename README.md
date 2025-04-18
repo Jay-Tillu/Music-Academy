@@ -6,6 +6,9 @@
 ![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black)
 
 ### 🚀 [Live Demo](https://academy.jaytillu.com/)
+### 🚀 [My Website](https://jaytillu.com)
+### 🚀 [My Blogs](https://jaytillu.com/blogs)
+### 🚀 [My YouTube](https://www.youtube.com/@jay_tillu)
 
 ## 🌟 Overview
 
